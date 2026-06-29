@@ -9,7 +9,7 @@
 
 This repository contains my implementations for all nine assignments completed as part of the *Praktikum Informatik 1* course at RWTH Aachen University. The course provided a structured, hands on introduction to C++ programming, covering fundamental language concepts through to advanced object-oriented design and GUI development.
 
-**Labs & Key Concepts****
+**Labs & Key Concepts**
 
 - **Project 1 – Data Types, Operators & Structures**  
   Implemented programs to explore C++ primitive data types, arithmetic operators, and explicit type casting. Built structured data types (`struct`) to group related data and applied them in practical console applications.
